@@ -1,2 +1,2 @@
 # BlueDreams
-A 2D game created with Unity.
+A 2D game, I made with Unity.
